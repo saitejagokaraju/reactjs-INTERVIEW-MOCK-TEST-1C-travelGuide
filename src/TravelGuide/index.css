@@ -1,0 +1,25 @@
+.li-el {
+  background-color: #ffffff;
+  margin-top: 18px;
+  margin-right: 18px;
+}
+.ima {
+  height: 220px;
+  width: 350px;
+  width: 100%;
+}
+.name {
+  color: #475569;
+  font-size: 20px;
+  font-family: 'Roboto';
+  margin-left: 10px;
+}
+.desc {
+  color: #64748b;
+  font-size: 14px;
+  font-family: 'Roboto';
+  max-width: 420px;
+  margin-top: 7px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
